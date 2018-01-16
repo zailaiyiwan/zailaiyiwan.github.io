@@ -54,6 +54,10 @@
     font-size:80px;
     text-shadow:1px 1px 5px #fff;
 }
+.index-list-img{
+    width: 50px;
+    height:auto;
+}
 .ct{
     text-align: center;
     border:0;
