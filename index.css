@@ -34,8 +34,10 @@
 .index-banner-text{
     position: absolute;
     top: 80px;
-    left:50%;
-    margin-left:-414px;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
     text-align: center;
 }
 .text-p{
