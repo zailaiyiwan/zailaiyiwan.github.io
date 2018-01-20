@@ -16,7 +16,7 @@
 .public-header-btn{
     border:1px solid #000;
     padding: 2px 5px;
-    border-radius:5px;
+    border-radius: 5px;
     position: absolute;
     right: 2%;
     top:34%;
@@ -36,8 +36,8 @@
     top: 80px;
     left:0;
     right:0;
-    bottom:0;
-    margin:auto;
+    bottom: 0;
+    margin: auto;
     text-align: center;
 }
 .text-p{
@@ -51,8 +51,8 @@
 }
 .text-p i{
     color:red;
-    font-size:80px;
-    text-shadow:1px 1px 5px #fff;
+    font-size: 80px;
+    text-shadow: 1px 1px 5px #fff;
 }
 .index-list-img{
     width: 50px;
@@ -87,19 +87,48 @@ span{
     width:100%;
     margin-top: 86px;
 }
+.index-example-d1{
+    width:1000px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 20px #ccc;
+}
+.index-example-a{
+    display: inline-block;
+    background-color: #ccc;
+    padding: 30px;
+}
+.index-example-h3{
+    font-weight:bold;
+    font-size: 32px;
+    line-height: 1.42;
+}
+.index-example-d2{
+    margin-left: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.bc a{
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding:10px;
+}
 .media-heading{
     margin-top: 76px;
     margin-left: 156px;
 }
+.kx{
+    margin-top: 46px;
+}
 .p2{
-    margin-left: 156px;
     margin-top: 24px;
+    font-size: 20px;
+    line-height: 1.42;
 }
 .p3{
     margin-left: 156px;
 }
 .public-footer-bot{
-    padding-bottom:26px;
+    padding-bottom: 26px;
 }
 .public-footer-h2{
     text-align: center;
@@ -154,11 +183,11 @@ span{
         top: 80px;
         left:0;
         right:0;
-        bottom:0;
-        margin:auto; 
+        bottom: 0;
+        margin: auto;
     }
     .text-p{
-        font-size:40px;
+        font-size: 40px;
     }
     .index-banner-d1,.index-banner-d2,.dd,span{
         display: none;
@@ -186,14 +215,26 @@ span{
     .bc{
         background-color: #f0f0f0;
     }
+    .index-example-d1{
+        width:375px;
+    }
+    .index-example-a{
+        width:100%;
+        padding: 20px;
+    }
+    .index-example-d2{
+        margin-left: 0;
+        display: block;
+    }
     .index-example-h3{
         text-align: center;
-        margin-top: 58px;
-        margin-left: 0px;
+        font-size: 20px;
+        margin:40px auto 0;
     }
-    .p2,.p3{
+    .p2{
         text-align: center;
-        margin-left: 0px;
+        font-size: 14px;
+        padding-bottom: 20px;
     }
     .public-footer{
         margin-top: 114px;
