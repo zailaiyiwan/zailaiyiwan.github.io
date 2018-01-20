@@ -88,22 +88,22 @@ span{
     margin-top: 86px;
 }
 .index-example-d1{
-    width:1000px;
+    width:600px;
     margin: 0 auto;
     box-shadow: 0px 0px 20px #ccc;
 }
 .index-example-a{
     display: inline-block;
     background-color: #ccc;
-    padding: 30px;
+    padding: 20px;
 }
 .index-example-h3{
     font-weight:bold;
-    font-size: 32px;
-    line-height: 1.42;
+    font-size: 18px;
+    line-height: 1.2;
 }
 .index-example-d2{
-    margin-left: 100px;
+    margin-left: 30px;
     display: inline-block;
     vertical-align: middle;
 }
@@ -121,11 +121,8 @@ span{
 }
 .p2{
     margin-top: 24px;
-    font-size: 20px;
-    line-height: 1.42;
-}
-.p3{
-    margin-left: 156px;
+    font-size: 14px;
+    line-height: 1.2;
 }
 .public-footer-bot{
     padding-bottom: 26px;
