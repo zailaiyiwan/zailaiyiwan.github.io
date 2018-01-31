@@ -78,6 +78,7 @@
     color:#525252;
     opacity:1;
     font-size: 29px;
+    font-weight: 200;
     height:34px;
     margin-top: 70px;
 }
@@ -98,9 +99,9 @@ span{
     padding: 20px;
 }
 .index-example-h3{
-    font-weight:bold;
+    font-weight:200;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.4;
 }
 .index-example-d2{
     margin-left: 30px;
@@ -146,17 +147,20 @@ span{
 .public-footer-p1{
     margin-left: 174px;
     margin-top: 28px;
-    color:#fff;
+    font-weight: 200;
+    color:#ccc;
 }
 .public-footer-p2{
     margin-left: 174px;
-    color:#fff;
+    font-weight: 200;
+    color:#ccc;
 }
 .tp{
     margin-top: 146px;
 }
 .tp>p{
-    color:#fff;
+    font-weight: 200;
+    color:#ccc;
     opacity:1;
     font-size: 14px;
     height:20px;
