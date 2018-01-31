@@ -99,9 +99,9 @@ span{
     padding: 20px;
 }
 .index-example-h3{
-    font-weight:200;
+    font-weight:bold;
     font-size: 18px;
-    line-height: 1.4;
+    line-height: 1.2;
 }
 .index-example-d2{
     margin-left: 30px;
@@ -123,7 +123,8 @@ span{
 .p2{
     margin-top: 24px;
     font-size: 14px;
-    line-height: 1.2;
+    line-height: 1.4;
+    font-weight: 200;
 }
 .public-footer-bot{
     padding-bottom: 26px;
