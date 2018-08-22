@@ -1,0 +1,26 @@
+html {
+	-webkit-text-size-adjust: none;
+	word-break: break-word;
+}
+
+body {
+	padding: 4%;
+	text-align: justify;
+	font-family: PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,Helvetica Neue,Arial,sans-serif;
+	color: #484d57;
+	-webkit-font-smoothing: antialiased;
+	font-size: 18px;
+}
+
+p {
+	margin-bottom: 30px;
+	line-height: 30px;
+	color: #333;
+	border: none;
+	outline: none;
+}
+
+h1 {
+	font-size: 18px;
+	font-weight: 700;
+}
